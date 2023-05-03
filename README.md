@@ -8,7 +8,7 @@ The goals for the project are as follows
 - [ ] WoW addon to handle invites and maybe ingame management of the guild
 
 ## Developer setup
-
+GEM will be using cloud based infrastructure and architecture. The cloud provider will most likely be AWS using Terraform configurations. Most likely using Lambdas, but EC2 is still on the table for simplicity (Which would use Docker).
 
 ## Problem analysis
 Domain class brainstorm
