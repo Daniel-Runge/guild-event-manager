@@ -10,6 +10,15 @@ The goals for the project are as follows
 ## Developer setup
 GEM will be using cloud based infrastructure and architecture. The cloud provider will most likely be AWS using Terraform configurations. Most likely using Lambdas, but EC2 is still on the table for simplicity (Which would use Docker).
 
+### Learning goals
+The immediate learning goals for this project are primarily, but not limited to the following:
+
+- Git, Git hooks, GitHub Actions, GitHub Projects
+- AWS & Terraform
+- Whatever programming languages we need (JavaScript, Python, Lua)
+
+Furthermore, an imperative goal of the project is to create proper documentation as well as proper unit, integration, and usability tests.
+
 ## Problem analysis
 Domain class brainstorm
 
